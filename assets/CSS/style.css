@@ -1,0 +1,26 @@
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+input,button{
+    display: block;
+    margin: 0 auto 10px;
+}
+#result-message{
+    text-align: center;
+    font-weight: bold;
+}
+#reset-btn{
+    display: none;
+}
